@@ -1,5 +1,5 @@
 # Learning-Lua-Process
-My learning progress on learning lua with the Love 2D game engine.
+My learning process with the lua programming language and the Love 2D game engine.
 
 ### Date started : March 2020.
 
